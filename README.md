@@ -1,3 +1,6 @@
+![Masthead](https://github.com/user-attachments/assets/029e4d63-8d85-434f-a2c9-79dd6e6df4d3)
+
+
 <h1 align="center">Hi 👋, I'm JAISURYAN.S</h1>
 <h3 align="center">Bridging Data Science and Web Development</h3>
 
