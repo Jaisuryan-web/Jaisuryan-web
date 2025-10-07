@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jaisuryan sundarraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaisuryan sundarraj" height="30" width="40" /></a>
-<a href="https://kaggle.com/jaisuryan sundarraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jaisuryan sundarraj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaisuryan-sundarraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaisuryan sundarraj" height="30" width="40" /></a>
+<a href="https://kaggle.com/jaisuryansundarraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jaisuryan sundarraj" height="30" width="40" /></a>
 <a href="https://instagram.com/jaisuryan__7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaisuryan__7" height="30" width="40" /></a>
 <a href="https://medium.com/jaisuryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="jaisuryan" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/https://discord.gg/Rpf27pHq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/https://discord.gg/Rpf27pHq" height="30" width="40" /></a>
