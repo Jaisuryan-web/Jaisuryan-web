@@ -1,7 +1,7 @@
 ![Masthead](https://github.com/user-attachments/assets/029e4d63-8d85-434f-a2c9-79dd6e6df4d3)
 
 
-<h1 align="center">Hi 👋, I'm JAISURYAN S</h1>
+<h1 align="center">Hi Folks👋, I'm JAISURYAN S</h1>
 <h3 align="center">Bridging Data Science and Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaisuryan-web&label=Profile%20views&color=0e75b6&style=flat" alt="jaisuryan-web" /> </p>
