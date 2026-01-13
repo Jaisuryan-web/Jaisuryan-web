@@ -46,7 +46,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,mongodb,mysql,docker,tensorflow,c,cs&perline=6" /> </p>
 
-<h4 align="left">GitHub Stats</h4>
+<h4 align="left">GitHub Stats:</h4>
 
 <p align="center">
   <img
