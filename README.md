@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaisuryan-web&label=Profile%20views&color=0e75b6&style=flat" alt="jaisuryan-web" /> </p>
 
-- 🌱 I’m currently learning **FAST API,DRF**
+- 🌱 I’m currently learning **FAST API, DJANGO REST FRAMEWORK(DRF)**
 
 - 💬 Ask me about **Django**
 
@@ -35,4 +35,5 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaisuryan-web&" alt="jaisuryan-web"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaisuryan-web&"alt="jaisuryan-web"/>
+</p>
