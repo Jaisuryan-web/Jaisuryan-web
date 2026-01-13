@@ -1,39 +1,70 @@
 ![Masthead](https://github.com/user-attachments/assets/029e4d63-8d85-434f-a2c9-79dd6e6df4d3)
 
+<h1 align="center">
+  Hi Folks 👋, I'm <span style="color:#1976d2">JAISURYAN S</span>
+</h1>
 
-<h1 align="center">Hi Folks👋, I'm JAISURYAN S</h1>
-<h3 align="center">Bridging Data Science and Web Development</h3>
+<h3 align="center">
+  🚀 Bridging <b>Data Science</b> & <b>Web Development</b>
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaisuryan-web&label=Profile%20views&color=0e75b6&style=flat" alt="jaisuryan-web" /> </p>
+<p align="center">
+  <!-- Light Mode Typing -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&pause=800&color=1976D2&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Backend+Developer+%7C+Django+%26+FastAPI;Building+Smart+Scalable+Systems"
+       #gh-light-mode-only />
 
-- 🌱 I’m currently learning **FAST API, DJANGO REST FRAMEWORK(DRF)**
+  <!-- Dark Mode Typing -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Backend+Developer+%7C+Django+%26+FastAPI;Building+Smart+Scalable+Systems"
+       #gh-dark-mode-only />
+</p>
 
-- 💬 Ask me about **Django**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaisuryan-web&label=Profile+Views&style=for-the-badge&color=1976d2"
+       #gh-light-mode-only />
+  <img src="https://komarev.com/ghpvc/?username=jaisuryan-web&label=Profile+Views&style=for-the-badge&color=00e5ff"
+       #gh-dark-mode-only />
+</p>
 
-- 📫 How to reach me **jaisuryan0708@gmail.com**
+---
 
-- ⚡ Fun fact **if(API_responds) → {backend_chill()};**
+## 🧠 About Me
+
+- 🎓 AI & Data Science Student  
+- 🌱 Currently learning **FastAPI & Django REST Framework (DRF)**
+- 💬 Ask me about **Django, Backend APIs, Data Science**
+- 📫 Reach me at **jaisuryan0708@gmail.com**
+- ⚡ Fun fact:
+  if api_responds:
+      backend.chill()
+
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jaisuryan-sundarraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaisuryan sundarraj" height="30" width="40" /></a>
-<a href="https://kaggle.com/jaisuryansundarraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jaisuryan sundarraj" height="30" width="40" /></a>
-<a href="https://instagram.com/jaisuryan__7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaisuryan__7" height="30" width="40" /></a>
-<a href="https://medium.com/jaisuryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="jaisuryan" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/https://discord.gg/Rpf27pHq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/https://discord.gg/Rpf27pHq" height="30" width="40" /></a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/jaisuryan-sundarraj/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-1976D2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://kaggle.com/jaisuryansundarraj" target="_blank"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> </a> <a href="https://instagram.com/jaisuryan__7" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://medium.com/jaisuryan" target="_blank"> <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /> </a> <a href="https://discord.gg/Rpf27pHq" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> </p>
 
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,mongodb,mysql,docker,tensorflow,c,cs&perline=6" /> </p>
 
+<h4 align="left">Github Stats:</h4>
+<p align="center"> <!-- Light --> <img src="https://github-readme-stats.vercel.app/api?username=jaisuryan-web&show_icons=true&theme=default&hide_border=true" height="180" #gh-light-mode-only /> <!-- Dark -->
 
-<p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaisuryan-web&show_icons=true&locale=en"
-       alt="jaisuryan-web">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=jaisuryan-web&show_icons=true&theme=tokyonight&hide_border=true
+"
+height="180"
+#gh-dark-mode-only />
 
+</p> <p align="center"> <!-- Light --> <img src="https://github-readme-streak-stats.herokuapp.com?user=jaisuryan-web&theme=default&hide_border=true" height="180" #gh-light-mode-only /> <!-- Dark -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaisuryan-web&"alt="jaisuryan-web"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jaisuryan-web&theme=tokyonight&hide_border=true
+"
+height="180"
+#gh-dark-mode-only />
+
+</p> <p align="center"> <!-- Light --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisuryan-web&layout=compact&theme=default&hide_border=true" #gh-light-mode-only /> <!-- Dark -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisuryan-web&layout=compact&theme=tokyonight&hide_border=true
+"
+#gh-dark-mode-only />
+
 </p>
