@@ -70,3 +70,6 @@
     alt="Top Languages"
   />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jaisuryan-web/jaisuryan-web/output/github-contribution-grid-snake-dark.svg" />
+</p>
