@@ -46,22 +46,24 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,mongodb,mysql,docker,tensorflow,c,cs&perline=6" /> </p>
 
-<h4 align="left">Github Stats:</h4>
-<p align="center"> <!-- Light --> <img src="https://github-readme-stats.vercel.app/api?username=jaisuryan-web&show_icons=true&theme=default&hide_border=true" height="180"  /> <!-- Dark -->
+<h4 align="center"> GitHub Stats</h4>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaisuryan-web&show_icons=true&theme=tokyonight&hide_border=true"
-height="180"
- />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jaisuryan-web&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
 
-</p> <p align="center"> <!-- Light --> <img src="https://github-readme-streak-stats.herokuapp.com?user=jaisuryan-web&theme=default&hide_border=true" height="180"  /> <!-- Dark -->
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=jaisuryan-web&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jaisuryan-web&theme=tokyonight&hide_border=true
-"
-height="180"
- />
-
-</p> <p align="center"> <!-- Light --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisuryan-web&layout=compact&theme=default&hide_border=true"  /> <!-- Dark -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisuryan-web&layout=compact&theme=tokyonight&hide_border=true"
- />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisuryan-web&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
