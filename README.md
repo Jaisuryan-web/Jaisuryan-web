@@ -46,24 +46,27 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,mongodb,mysql,docker,tensorflow,c,cs&perline=6" /> </p>
 
-<h4 align="center"> GitHub Stats</h4>
+<h4 align="left">GitHub Stats</h4>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=jaisuryan-web&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=jaisuryan-web&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600"
+    height="170"
+    alt="Jaisuryan GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=jaisuryan-web&theme=tokyonight&hide_border=true"
-    height="180"
+    src="https://streak-stats.demolab.com?user=jaisuryan-web&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Jaisuryan GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisuryan-web&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisuryan-web&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600"
+    alt="Top Languages"
   />
 </p>
