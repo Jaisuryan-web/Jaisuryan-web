@@ -49,27 +49,14 @@
 <h4 align="left">GitHub Stats:</h4>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jaisuryan-web&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600"
-    height="170"
-    alt="Jaisuryan GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaisuryan-web&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" height="170"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=jaisuryan-web&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Jaisuryan GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=jaisuryan-web&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisuryan-web&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisuryan-web&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jaisuryan-web/jaisuryan-web/output/github-contribution-grid-snake-dark.svg" />
-</p>
+
