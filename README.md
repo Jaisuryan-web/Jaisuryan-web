@@ -10,11 +10,11 @@
 
 <p align="center">
   <!-- Light Mode Typing -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&pause=800&color=1976D2&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Backend+Developer+%7C+Django+%26+FastAPI;    Building+Smart+Scalable+Systems"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&pause=800&color=1976D2&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Backend+Developer+%7C+Django+%26+FastAPI;Building+Smart+Scalable+Systems"
         />
 
   <!-- Dark Mode Typing -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Backend+Developer+%7C+Django+%26+FastAPI;    Building+Smart+Scalable+Systems"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Backend+Developer+%7C+Django+%26+FastAPI;Building+Smart+Scalable+Systems"
        />
 </p>
 
