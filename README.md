@@ -1,7 +1,7 @@
 ![Masthead](https://github.com/user-attachments/assets/029e4d63-8d85-434f-a2c9-79dd6e6df4d3)
 
 <h1 align="center">
-  Hi Folks 👋, I'm <span style="color:#1976d2">JAISURYAN S</span>
+  Hi Folks 👋, I'm <span style="color:#1976d2">JAISURYAN S </span>
 </h1>
 
 <h3 align="center">
