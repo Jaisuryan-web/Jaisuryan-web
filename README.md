@@ -41,7 +41,7 @@
 <h4 align="left">GitHub Stats:</h4>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaisuryan-web&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaisuryan-web&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="170"/>
 </p>
 
 <p align="center">
@@ -49,6 +49,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisuryan-web&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaisuryan-web&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
